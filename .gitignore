@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.hls-work/
+*.partial.mp4
+*.mp4
+*.ts
+*.aria2
+*.m3u8
+*.log
+trusted-roots.pem
